@@ -1,6 +1,6 @@
 #!/bin/bash
 
-result_args=$(./kadai3.sh a)
+result_args=$(./kadai3.sh)
 result_not_num=$(./kadai3.sh a)
 result_minus_num=$(./kadai3.sh -1)
 result_not_prime_num=$(./kadai3.sh 4)
