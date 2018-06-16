@@ -1,0 +1,5 @@
+language: bash
+script:
+ - bash -e ./kadai4.sh
+ - ./kadai4.sh
+
